@@ -16,7 +16,7 @@ Logotipo:
 
 Miembros
  * :bust_in_silhouette:   Jesús Ruiz Castellano     :octocat:     
- * :bust_in_silhouette:   David Núñez Pérez    :octocat:
+ * :bust_in_silhouette:   David Pérez Núñez    :octocat:
 
 ----- 
 
