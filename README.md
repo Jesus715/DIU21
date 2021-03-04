@@ -41,6 +41,7 @@ Miembros
 
 >>> Como queremos ver distintos puntos de vista, hemos seleccionado 2 perfiles totalmente diferentes para así abarcar más casuísticas y escenarios diferentes :
 >>> ![Primer personaje : Olgui Ort](P1/OlguiOrt.png)
+>>> ![Segundo personaje : Eustaquio](P1/Eustaquio.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
