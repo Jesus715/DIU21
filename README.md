@@ -30,7 +30,7 @@ Miembros
 ![Método UX](img/Competitive.png) 1.a Competitive Analysis
 -----
 
->>> Nuestro objetivo es crear una plataforma para 
+>>> Queremos crear una plataforma para realizar tours, tanto de manera presencial, como online. Hemos tomado como referencia Freetour, porque es una de las plataformas más usadas, y por otro lado, por su diseño, organizado, aunque algo cargado, y por la función de realizar tours online, que otras plataformas no incluyen, con la idea de seleccionar lo mejor de dicha plataforma, cambiar las partes más deficientes y añadir nuevas funcionalidades.
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
