@@ -34,12 +34,13 @@ Miembros
 >>> 
 A continuación podemos ver el primer estudio comparativo de la plataforma que vamos a evaluar, con la plataforma CityTour Granada, una empresa de tours local :
 
-(P1/AnalisisCompetitivo.jpg)
+![Análisis Competitivo](P1/AnalisisCompetitivo.jpg)
 
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  (80-150 caracteres)
+>>> Como queremos ver distintos puntos de vista, hemos seleccionado 2 perfiles totalmente diferentes para así abarcar más casuísticas y escenarios diferentes :
+>>> ![Primer personaje : Olgui Ort](P1/OlguiOrt.png)
 
 ![Método UX](img/JourneyMap.png) 1.c User Journey Map
 ----
