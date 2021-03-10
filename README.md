@@ -47,7 +47,8 @@ Miembros
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) (80-150 caracteres) 
+>>> Pensamos que la forma en la que interactúan con la aplicación los personajes toma caminos muy distintos, ofreciéndonos un enfoque más amplio al que tendríamos si pensamos en cómo usaría la aplicación alguien como nosotros. 
+>>> ![Journey Map : Olgui Ort](P1/JMOlguiOrt.jpg)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
