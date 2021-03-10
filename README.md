@@ -58,9 +58,10 @@ Miembros
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
->>> - Enlace al documento:  
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  Este es el [enlace](https://github.com/Jesus715/DIU21/P1/UsabilityReview.pdf) al documento.
+>>> - Valoración final (numérica): 63 - Moderate
+>>> - Comentario sobre la valoración:  Como hemos podido comprobar, la aplicación no está pensada para todos los públicos, siendo más difícil para personas con menor conocimiento tecnológico. 
+>>> Los puntos más críticos que hemos encontrado han sido la navegación, que no era muy intuitivo saber dónde nos encontrábamos, y a la hora del pago, que se sale de la política de los tours presenciales, teniendo un precio predefinido, además de no ser un proceso sencillo.
 
 
 ## Paso 2. UX Design  
