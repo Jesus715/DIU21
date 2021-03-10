@@ -51,6 +51,10 @@ Miembros
 >>> * :bust_in_silhouette: Olgui Ort
 >>> 
 >>> ![Journey Map : Olgui Ort](P1/JMOlguiOrt.jpg)
+>>> 
+>>> * :bust_in_silhouette: Eustaquio
+>>> 
+>>> ![Journey Map : Eustaquio](P1/JMEustaquio.jpg)
 
 ![Método UX](img/usabilityReview.png) 1.d Usability Review
 ----
