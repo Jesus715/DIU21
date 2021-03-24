@@ -97,7 +97,9 @@ Miembros
 ![Método UX](img/Sitemap.png) 2.c Tasks analysis 
 -----
 
->>> Definir "User Map" y "Task Flow" ... 
+>>> Hemos escogido esta opción, porque nos parece que hace un mejor resumen visual de grupos y tareas, y deja más claras las partes críticas en función de los distintos tipos de usuario :
+>>> 
+>>> ![User/Task Matrix](P2/UserTaskMatrix.jpg)
 
 
 ![Método UX](img/labelling.png) 2.c IA: Sitemap + Labelling 
