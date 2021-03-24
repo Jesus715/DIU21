@@ -71,26 +71,30 @@ Miembros
 ----
 
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior,
+>>> Una vez realizadas las entrevistas, la revisión de usabilidad y añadido nuestra perspectiva, hemos clasificado aspectos positivos actualmente existentes, críticas constructivas, preguntas de los usuarios (a partir de las personas ficticias), e ideas de mejora (a partir de la experiencia del equipo de desarrollo).
+>>> 
+#### Feedback Capture Grid 
+>>> Aquí adjuntamos la **Malla receptora de información** resultante :
+>>> ![Feedback Capture Grid](P2/feedbackCaptureGrid.jpg)
 
+#### Empathy Map
+>>> Como queremos ver distintos puntos de vista, hemos seleccionado los mapas de ambos personajes :
+>>> **Olgui Ort**
+>>> ![Empathy Map Olgui Ort](P2/OlguiEM.jpg)
+>>> **Eustaquio**
+>>> ![Empathy Map Eustaquio](P2/EustaquioEM.jpg)
 
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> ¿Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa ?
->>> Problema e hipótesis
->>>  Que planteas como "propuesta de valor" para un nuevo diseño de aplicación para economia colaborativa te
->>> (150-200 caracteres)
-
+#### Point Of View
+>>> Para esta sección hemos añadido un fichero *pdf* con los diferentes puntos de vista de ambos personajes. El fichero se llama [POV.pdf](https://github.com/Jesus715/DIU21/tree/master/P2/POV.pdf)
 
 
 ![Método UX](img/ScopeCanvas.png) 2.b ScopeCanvas
 ----
->>> Propuesta de valor 
+>>> **Propuesta de valor. Descripción :** Vamos a diseñar una aplicación para compartir diferentes experiencias a través de tours que se van a proponer en la plataforma, ya sea por parte de los usuarios cliente, como de los usuarios comerciantes.
+>>> A continuación adjuntamos el **LeanUX Canvas** :
+>>> ![LeanUX Canvas](P2/LeanUX.jpg)
 
-![Método UX](img/Sitemap.png) 2.b Tasks analysis 
+![Método UX](img/Sitemap.png) 2.c Tasks analysis 
 -----
 
 >>> Definir "User Map" y "Task Flow" ... 
