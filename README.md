@@ -97,6 +97,7 @@ Miembros
 ![Método UX](img/Sitemap.png) 2.c Tasks analysis 
 -----
 
+>>> **User/Task Matrix**
 >>> Hemos escogido esta opción, porque nos parece que hace un mejor resumen visual de grupos y tareas, y deja más claras las partes críticas en función de los distintos tipos de usuario :
 >>> 
 >>> ![User/Task Matrix](P2/UserTaskMatrix.jpg)
