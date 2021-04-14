@@ -107,11 +107,10 @@ Miembros
 ----
 
 
->>> Identificar términos para diálogo con usuario  
-
-Término | Significado     
-| ------------- | -------
-  Login¿?  | acceder a plataforma
+>>> Como ya tenemos diferenciadas las tareas principales, ahora hay que desarrollar el ***Sitemap***. Para ello, hemos tenido en cuenta la dificultad para acceder a algunos menús y opciones de *freetour*, para así mejorar la experiencia de usuario:
+>>> 
+>>> ![Sitemap](P2/sitemap.png)
+>>> 
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
