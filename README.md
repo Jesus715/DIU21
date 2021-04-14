@@ -111,6 +111,9 @@ Miembros
 >>> 
 >>> ![Sitemap](P2/sitemap.png)
 >>> 
+>>> Con el siguiente ***Labelling*** vamos a explicar las funcionalidades y distintas páginas mencionadas en el ***Sitemap*** :
+>>> 
+>>> ![Labelling](P2/labelling.png)
 
 
 ![Método UX](img/Wireframes.png) 2.d Wireframes
