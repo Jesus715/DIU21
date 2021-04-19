@@ -119,7 +119,24 @@ Miembros
 ![Método UX](img/Wireframes.png) 2.d Wireframes
 -----
 
->>> Plantear el  diseño del layout para Web/movil (organización y simulación ) 
+>>> Estos son los diferentes ***bocetos Lo-Fi*** que hemos diseñado, aplicando las ideas de mejora obtenidas del estudio hecho previamente de usabilidad, haciendo destacar la claridad y la simplicidad para el usuario. Los diseños están agrupados de 3 o de 4 en 4 :
+>>> 
+>>>  ![1](P2/1.jpg)
+>>> 
+>>>  ![1](P2/2.jpg)
+>>>  
+>>>  ![1](P2/3.jpg)
+>>>  
+>>>  ![1](P2/4.jpg)
+>>> 
+>>>  ![1](P2/5.jpg)
+>>> 
+>>>  ![1](P2/6.jpg)
+>>> 
+>>> Para verlos de manera individual y así poder verlos más detalladamente, puede acceder al subdirectorio en el que se encuentran alojados a través de [este enlace](https://github.com/Jesus715/DIU21/tree/master/P2/wireframes)
+>>> 
+>>> **Valoración :** 
+>>> Tras finalizar esta parte nos hemos dado cuenta de cómo acercarnos más al usuario para poder hacer un diseño más específico y cómodo para él. 
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
