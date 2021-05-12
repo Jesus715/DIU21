@@ -151,6 +151,7 @@ Miembros
 >>> 
 >>> **LOGOTIPO**
 >>> ![Logotipo](P3/logoTE.png)
+>>> 
 >>> Para el diseño del logotipo hemos utilizado la herramienta web Canvas y hemos mezclado elementos que creemos llamativos y, a su vez, intuitivos para identificar a nuestra aplicación de manera inequívoca.
 
 
