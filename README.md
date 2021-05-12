@@ -12,7 +12,7 @@ Descripción:
 >>> Aplicación para compartir experiencias mediante tours
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+>>> ![Logotipo](P3/logoTE.png)
 
 Miembros
  * :bust_in_silhouette:   Jesús Ruiz Castellano     :octocat:     
@@ -146,35 +146,65 @@ Miembros
 -----
 
 
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+>>> **MOODBOARD**
+>>> ![Moodboard](P3/Moodboard.jpg) 
+>>> 
+>>> **LOGOTIPO**
+>>> ![Logotipo](P3/logoTE.png)
+>>> Para el diseño del logotipo hemos utilizado la herramienta web Canvas y hemos mezclado elementos que creemos llamativos y, a su vez, intuitivos para identificar a nuestra aplicación de manera inequívoca.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
 
->>> Plantear Landing Page 
+>>>  ![Landingpage](P3/landing.jpg)
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+>>> **Estudio de Guidelines y Patrones IU a usar**
+*BUSCAR*
+Search/results: tenemos una barra de búsqueda, y los resultados se van a apareciendo automáticamente
+
+*NAVEGACIÓN*
+Piramidal: tenemos una pagina de inicio (inicio) de la cual derivan otras 5 (registrarse, iniciar sesión,
+perfil, tours, y productos). De esas paginas derivan otras, haciéndose en forma de pirámide.
+
+*INFORMACIÓN*
+List Inlay: muestra como una lista los tours disponibles, y los que tiene contratados el cliente
+Gallery: los tour son un conjunto de imágenes con un texto asociado y una opción de compra.
+
+*ASISTENTES / WIZARDS*
+Migas de pan: Se ha usado una barra de navegación encima de la información, la cual muestra el path
+de dicha pagina. Ademas se dispone de herramientas para la navegación adicionales en el footer.
+
+*REGISTRAR*
+Sign In / Account Registration: patrón clásico de inicio de sesión y registro, formulario a completar
+
+*DATOS DE USUARIO*
+Formulario relleno: Es un formulario lleno con los datos del usuario y fácilmente modificable. Para
+completar la acción de modificación debes darle a guardar. 
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
 
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+>>> 
+>>> ![Mockups](P3/Mockups.jpg)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
 
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
+>>> **My Case Study**
+>>> A continuación, adjuntamos un vídeo-demostración de lo que sería la navegación de un usuario, *NomUsuario*, desde que entra al Landing page, se registra, se apunta a un Tour, consulta y modifica sus datos personales, ve los tours disponibles, y visita la página de política de privacidad :
+>>> 
+>>> 
+https://user-images.githubusercontent.com/17532503/117972421-6c7c8e80-b32b-11eb-942c-4c6870058f4a.mp4
+
+
 
 
 ## Paso 4. Evaluación 
