@@ -158,8 +158,8 @@ Miembros
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
 
-
 >>>  ![Landingpage](P3/landing.jpg)
+
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
