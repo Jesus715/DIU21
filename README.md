@@ -152,7 +152,7 @@ Miembros
 >>> **LOGOTIPO**
 >>> ![Logotipo](P3/logoTE.png)
 >>> 
->>> Para el diseño del logotipo hemos utilizado la herramienta web Canvas y hemos mezclado elementos que creemos llamativos y, a su vez, intuitivos para identificar a nuestra aplicación de manera inequívoca.
+>>> Para el diseño del logotipo hemos utilizado la herramienta web Canva y hemos mezclado elementos que creemos llamativos y, a su vez, intuitivos para identificar a nuestra aplicación de manera inequívoca.
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
