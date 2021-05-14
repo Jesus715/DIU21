@@ -193,6 +193,8 @@ completar la acción de modificación debes darle a guardar.
 >>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
 >>> 
 >>> ![Mockups](P3/Mockups.jpg)
+>>> 
+>>> Para verlos de manera individual y así poder verlos más detalladamente, puede acceder al subdirectorio en el que se encuentran alojados a través de [este enlace](https://github.com/Jesus715/DIU21/tree/master/P3/mockups)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
