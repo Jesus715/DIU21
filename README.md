@@ -165,6 +165,7 @@ Miembros
 ----
 
 >>> **Estudio de Guidelines y Patrones IU a usar**
+>>> 
 *BUSCAR*
 Search/results: tenemos una barra de búsqueda, y los resultados se van a apareciendo automáticamente
 
