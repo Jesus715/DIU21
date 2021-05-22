@@ -224,15 +224,24 @@ https://user-images.githubusercontent.com/17532503/117972421-6c7c8e80-b32b-11eb-
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
+>>> Para la evaluación, hemos cogido a nuestras 2 personas ficticias de las prácticas anteriores y a 2 nuevas : Lucy y Javier :
+
+>>> **Lucy Andrews :**
+
+>>> ![Lucy Andrews](P4/LucyAndrews.png)
+
+>>> **Javier Casares :**
+
+>>> ![Lucy Andrews](P4/JavierCasares.png)
+>>> 
  
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+| Eustaquio  | H / 93   | Jubilado  | Ninguna       | Introvertido | Web       | A 
+| Olgui Ort  | M / 22   | Bailarina  | Media       | Extrovertida       | Web        | A 
+| Lucy Andrews  | M / 27   | Dependiente     | Baja        | Emocional    | web      | B 
+| Javier Casares  | H / 50   | Matemático  | Alta       | Racional     | Web        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
@@ -240,19 +249,23 @@ https://user-images.githubusercontent.com/17532503/117972421-6c7c8e80-b32b-11eb-
 
 >>> Usaremos el **Cuestionario SUS** para valorar la satisfacción de cada usuario con el diseño (A/B) realizado. Para ello usamos la [hoja de cálculo](https://github.com/mgea/DIU19/blob/master/Cuestionario%20SUS%20DIU.xlsx) para calcular resultados sigiendo las pautas para usar la escala SUS e interpretar los resultados
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
-Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+>>> A continuación, adjuntamos el pdf con el cuestionario y el resultado obtenido :
+>>> [Cuestionario_SUS.pdf](https://github.com/Jesus715/DIU21/P4/Cuestionario_SUS.pdf)
+
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
+>> En este apartado se encuentra el enlace correspondiente al *Informe de Usabilidad* de la aplicación B de nuestro caso:
+
+>>> **DIU1.Piña**
+>>>
+>>> [Usability Report : DIU1.Piña](https://github.com/Jesus715/DIU21/P4/P4_UsabReport_Piña_doneby_DIU3_RealBetisBP.pdf)
 
 
 
->>> Valoración personal 
 
 
 ## Paso 5. Evaluación de Accesibilidad  
