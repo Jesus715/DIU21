@@ -221,7 +221,7 @@ https://user-images.githubusercontent.com/17532503/117972421-6c7c8e80-b32b-11eb-
 >>> Para esta práctica se nos han asignado los grupos :
 >>> 
 >>> **DIU1.Piña**, que podemos ver a través del enlace a su [repositorio de GitHub](https://github.com/pablojj1808/DIU21)
->>> y
+y
 >>> **DIU2.TheThruster**, que podemos ver a través del enlace a su [repositorio de GitHub](https://github.com/AlejandroFrndz/DIU)
 
 
