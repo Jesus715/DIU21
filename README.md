@@ -229,12 +229,15 @@ https://user-images.githubusercontent.com/17532503/117972421-6c7c8e80-b32b-11eb-
 ----
 
 >>> Los lanzamientos de los dados han dado los siguientes resultados :
+
+
 | Tiradas/Dados | Tipos     | Actividad   |  Emociones   
 | ------------- | -------- | ----------- | ----
 | 1ª  |  3 | 3  | 4   
 | 2ª  |  5 | 5  | 6
 | 3ª  |  5 | 1  | 1
 | 4ª  |  6 | 4  | 2
+ 
  
  >>> En base a las tiradas de los dados, hemos buscado a personas de nuestro entorno que pudiesen entrar dentro de las características sacadas.
 
