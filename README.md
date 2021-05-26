@@ -221,33 +221,36 @@ https://user-images.githubusercontent.com/17532503/117972421-6c7c8e80-b32b-11eb-
 >>> Para esta práctica se nos han asignado los grupos :
 >>> 
 >>> **DIU1.Piña**, que podemos ver a través del enlace a su [repositorio de GitHub](https://github.com/pablojj1808/DIU21)
->>> 
 >>> y
->>> 
 >>> **DIU2.TheThruster**, que podemos ver a través del enlace a su [repositorio de GitHub](https://github.com/AlejandroFrndz/DIU)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
 
->>> Para la evaluación, hemos cogido a nuestras 2 personas ficticias de las prácticas anteriores y a 2 nuevas : Lucy y Javier :
-
->>> **Lucy Andrews :**
-
->>> ![Lucy Andrews](P4/LucyAndrews.png)
-
->>> **Javier Casares :**
-
->>> ![Lucy Andrews](P4/JavierCasares.png)
->>> 
+>>> Los lanzamientos de los dados han dado los siguientes resultados :
+| Tiradas/Dados | Tipos     | Actividad   |  Emociones   
+| ------------- | -------- | ----------- | ----
+| 1ª  |  3 | 3  | 4   
+| 2ª  |  5 | 5  | 6
+| 3ª  |  5 | 1  | 1
+| 4ª  |  6 | 4  | 2
  
+ >>> En base a las tiradas de los dados, hemos buscado a personas de nuestro entorno que pudiesen entrar dentro de las características sacadas.
+
+>>> Nos hemos percatado que las tiradas primera y cuartas se pueden corresponder con los personajes ficticios que se realizaron al principio de la asignatura, siendo estos: Olgui Ort y Eustaquio Ramirez. Ambos personajes basados en personas de nuestro entorno cercano, por lo que se les ha asignado a dichos avatares el rol de usuario.
+Los otros dos usuarios están basados en gente que hemos conocido, no tan cercanos como los primeros. Estos tienen oficios muy diferentes y edades distintas, y por ello ofrecen puntos de vista muy distintos.
+
+>>> El principal motivo de la elección de estas personas es que conforman un rango sumamente amplio en cuanto a la aproximación del usuario a la tecnología, siendo esta aproximación de menor a mayo: el anciano con conocimientos nulos, la mujer con conocimiento justo, la joven con el conocimiento generacional y el profesor con un conocimiento exhaustivo.
+El segundo motivo de selección es la edad, ya que esta puede condicionar la experiencia de usuario en tanto y cuando la capacidad física se vea comprometida de alguna forma, siendo el ejemplo más claro es el del octogenario.
+
 
 | Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
 | ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| Eustaquio  | H / 93   | Jubilado  | Ninguna       | Introvertido | Web       | A 
-| Olgui Ort  | M / 22   | Bailarina  | Media       | Extrovertida       | Web        | A 
-| Lucy Andrews  | M / 27   | Dependiente     | Baja        | Emocional    | web      | B 
-| Javier Casares  | H / 50   | Matemático  | Alta       | Racional     | Web        | B 
+| #USER1  | H / 93   | Jubilado  | Ninguna       | Introvertido | Web       | A 
+| #USER2  | M / 22   | Bailarina  | Media       | Extrovertida       | Web        | A 
+| #USER3  | M / 27   | Dependiente     | Baja        | Emocional    | web      | B 
+| #USER4  | H / 50   | Matemático  | Alta       | Racional     | Web        | B 
 
 
 ![Método UX](img/Survey.png). 4.c Cuestionario SUS
